@@ -1,8 +1,8 @@
 # DBSCAN_1D
 
-![DBSCAN]('DBSCAN_1D.png')
+![DBSCAN](DBSCAN_1D.png)
 
-Python implementation of DBSCAN algorithm for 1D
+#### Python implementation of DBSCAN algorithm for 1D
 
 DBSCAN (Density-based spatial clustering of applications with noise) is a data clustering algorithm proposed by Martin Ester et al [1].
 
